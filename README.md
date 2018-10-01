@@ -14,4 +14,8 @@
  [metaheuristics-comparison](https://github.com/kivancguckiran/metaheuristics-comparison/blob/master/genetic/project.py)
  
  ## RESULTS :
+ Environment : FrozenLake4x4-v0
  ![picture](Figure_1.png)
+ 
+ Environment : FrozenLake8x8-v0
+ ![picture](Figure_2.png)
